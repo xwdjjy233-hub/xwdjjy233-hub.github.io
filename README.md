@@ -1,8 +1,8 @@
 # 小梧的个人网站 | Xiaowu's Personal Website
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-部署成功-brightgreen)](https://xiaowu.github.io)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
-
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-在线-brightgreen)](https://xwdjjy233-hub.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-xwdjjy233--hub-blue)](https://github.com/xwdjjy233-hub)
+[![License](https://img.shields.io/badge/License-MIT-blue)]()
 欢迎来到我的个人网站！这是一个基于GitHub Pages搭建的个人展示网站。
 
 ## ✨ 特性
