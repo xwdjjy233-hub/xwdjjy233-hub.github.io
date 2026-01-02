@@ -131,7 +131,7 @@ function updateTime() {
     }
     
     // 计算网站运行时间
-    const startDate = new Date('2023-09-01T00:00:00'); // 设置网站开始日期
+    const startDate = new Date('2026-01-02T21:50:00'); // 设置网站开始日期
     updateRuntime(startDate);
 }
 
